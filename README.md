@@ -5,6 +5,8 @@ PanDownload网页复刻版，PHP语言版
 
 另外使用的时候能不能保留一下作者信息呀（就是菜单栏的Made by Yuan_Tuo），谢~
 
+# Forked from yuantuo666/baiduwp-php for backup
+
 # Demo
 [暂不开放](https://imwcr.cn/api/bdwp/)
 
